@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:h="http://xmlns.jcp.org/jsf/html"
+      xmlns:f="http://xmlns.jcp.org/jsf/core">
+    <h:head>
+        <title>Emp</title>
+    </h:head>
+    <h:body>
+        <h2>Search for Client by Name</h2>
+        
+        <h:form>
+            <h:panelGrid columns="2" border="1">
+                
+                <h:outputLabel value="Client Name" />
+                <h:inputText id="cliName" value="#{findClientByNameBean.name}" >
+                    <f:validateBean id="cliNameValid" for="cliName"/>
+                </h:inputText>
+                <!-- empty -->
+                <h:commandButton value="Find Patient" action="#{findClientByNameBean.findClientByName()}" />
+            </h:panelGrid>
+        </h:form>
+    </h:body>
+</html>
+

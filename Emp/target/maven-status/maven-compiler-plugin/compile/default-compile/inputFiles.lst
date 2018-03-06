@@ -1,0 +1,16 @@
+/Users/Sarath/NetBeansProjects/Emp/src/main/java/uk/ac/city/acsh122/emp/dataaccess/EmpDataManager.java
+/Users/Sarath/NetBeansProjects/Emp/src/main/java/uk/ac/city/acsh122/emp/domian/Assignment.java
+/Users/Sarath/NetBeansProjects/Emp/src/main/java/uk/ac/city/acsh122/emp/backingbeans/FindEmployeeByIdBean.java
+/Users/Sarath/NetBeansProjects/Emp/src/main/java/uk/ac/city/acsh122/emp/services/EmpManagementService.java
+/Users/Sarath/NetBeansProjects/Emp/src/main/java/uk/ac/city/acsh122/emp/domian/AssignmentPK.java
+/Users/Sarath/NetBeansProjects/Emp/src/main/java/uk/ac/city/acsh122/emp/backingbeans/FindClientByNameBean.java
+/Users/Sarath/NetBeansProjects/Emp/src/main/java/uk/ac/city/acsh122/emp/services/EmpManagementServiceImpl.java
+/Users/Sarath/NetBeansProjects/Emp/src/main/java/uk/ac/city/acsh122/emp/domian/EmployeeSkills.java
+/Users/Sarath/NetBeansProjects/Emp/src/main/java/uk/ac/city/acsh122/emp/domian/EmployeeSkillsPK.java
+/Users/Sarath/NetBeansProjects/Emp/src/main/java/uk/ac/city/acsh122/emp/domian/Department.java
+/Users/Sarath/NetBeansProjects/Emp/src/main/java/uk/ac/city/acsh122/emp/dataaccess/EmpDataManagerJpa.java
+/Users/Sarath/NetBeansProjects/Emp/src/main/java/uk/ac/city/acsh122/emp/backingbeans/AllDepartmentsBean.java
+/Users/Sarath/NetBeansProjects/Emp/src/main/java/uk/ac/city/acsh122/emp/domian/Employee.java
+/Users/Sarath/NetBeansProjects/Emp/src/main/java/uk/ac/city/acsh122/emp/backingbeans/AllEmployeesBean.java
+/Users/Sarath/NetBeansProjects/Emp/src/main/java/uk/ac/city/acsh122/emp/backingbeans/AddEmployeeBean.java
+/Users/Sarath/NetBeansProjects/Emp/src/main/java/uk/ac/city/acsh122/emp/domian/Client.java
